@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Su
+  given-names: Anjie
+orcid: https://orcid.org/0009-0002-4056-6095
+title:Lem0n-SAJ/RDM_Program_Su: Random Dot Motion (RDM) experiment program
+version: V1.0
+date-released: 2025-02-03
